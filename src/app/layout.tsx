@@ -2,8 +2,8 @@ import type {Metadata} from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Groq SalesAI | MarketAI Suite',
-  description: 'Intelligent Sales & Marketing Platform powered by Groq LLaMA 3.3',
+  title: 'Tech Sales AI',
+  description: 'Intelligent Sales & Marketing Platform powered by Advanced AI',
 };
 
 export default function RootLayout({

@@ -1,4 +1,3 @@
-
 "use client";
 
 import Link from "next/link";
@@ -23,7 +22,7 @@ export function NavBar() {
           <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary">
             <Sparkles className="h-5 w-5 text-primary-foreground" />
           </div>
-          <span className="font-headline text-xl font-bold tracking-tight text-primary">Groq SalesAI</span>
+          <span className="font-headline text-xl font-bold tracking-tight text-primary">Tech Sales AI</span>
         </div>
         <div className="hidden space-x-1 md:flex">
           {navItems.map((item) => {

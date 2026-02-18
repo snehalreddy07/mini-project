@@ -1,4 +1,3 @@
-
 import { NavBar } from "@/components/layout/nav-bar";
 import { Card, CardHeader, CardTitle, CardDescription, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
@@ -23,13 +22,13 @@ export default function Home() {
           <div className="relative z-10 max-w-2xl">
             <div className="mb-4 inline-flex items-center gap-2 rounded-full bg-accent/20 px-3 py-1 text-sm font-medium text-accent">
               <Sparkles className="h-4 w-4" />
-              <span>Powered by Groq LLaMA 3.3 70B</span>
+              <span>Cutting-edge AI Intelligence</span>
             </div>
             <h1 className="mb-6 font-headline text-5xl font-bold leading-tight md:text-6xl">
-              Transform Your Sales with AI Intelligence
+              Transform Your Sales with Tech Sales AI
             </h1>
             <p className="mb-8 text-lg text-primary-foreground/80 md:text-xl">
-              MarketAI Suite empowers marketing and sales teams with predictive analytics, 
+              Tech Sales AI empowers marketing and sales teams with predictive analytics, 
               automated campaign strategies, and intelligent lead qualification.
             </p>
             <div className="flex flex-wrap gap-4">
@@ -158,7 +157,7 @@ export default function Home() {
           <div className="flex flex-col items-center justify-between gap-6 md:flex-row">
             <div>
               <h2 className="font-headline text-2xl font-bold text-primary">System Performance</h2>
-              <p className="text-muted-foreground">Real-time stats from Groq SalesAI platform</p>
+              <p className="text-muted-foreground">Real-time stats from Tech Sales AI platform</p>
             </div>
             <div className="grid grid-cols-2 gap-8 sm:grid-cols-4">
               <div className="text-center">

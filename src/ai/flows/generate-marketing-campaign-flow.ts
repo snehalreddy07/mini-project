@@ -67,7 +67,7 @@ const marketingCampaignPrompt = ai.definePrompt({
   input: { schema: GenerateMarketingCampaignInputSchema },
   output: { schema: GenerateMarketingCampaignOutputSchema },
   tools: [getMarketingContextTool], // Make the tool available to the prompt
-  prompt: `You are MarketAI Suite, an expert marketing strategist powered by a sophisticated AI model similar to Groq's LLaMA 3.3 70B.
+  prompt: `You are Tech Sales AI, an expert marketing strategist.
 Your goal is to generate a comprehensive, data-driven marketing campaign strategy.
 
 If you need additional context or guidance on best practices for the given platform, target audience, or marketing objective, you may use the 'getMarketingContext' tool to retrieve expert advice. Incorporate any relevant information obtained from the tool into your strategy.
