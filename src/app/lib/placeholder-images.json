@@ -1,0 +1,29 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "Abstract technology and marketing concept background",
+      "imageUrl": "https://picsum.photos/seed/marketai-hero/1200/600",
+      "imageHint": "technology marketing"
+    },
+    {
+      "id": "campaign-card",
+      "description": "Marketing campaign analytics and strategy",
+      "imageUrl": "https://picsum.photos/seed/campaign/600/400",
+      "imageHint": "marketing strategy"
+    },
+    {
+      "id": "pitch-card",
+      "description": "Sales professional presenting a pitch",
+      "imageUrl": "https://picsum.photos/seed/pitch/600/400",
+      "imageHint": "sales presentation"
+    },
+    {
+      "id": "leads-card",
+      "description": "Data analysis and lead qualification charts",
+      "imageUrl": "https://picsum.photos/seed/leads/600/400",
+      "imageHint": "data analysis"
+    }
+  ]
+}
